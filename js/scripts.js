@@ -91,7 +91,7 @@ if (loginForm) {
 
     if (storedData && enteredEmail === storedData.email && enteredPwd === storedData.pwd) {
       alert("Login successfully! Redirecting to home page...");
-      window.location.href = "index.html";
+      window.location.href = "../index.html";
     } else {
       alert("Invalid email or password. Please try again.");
     }
