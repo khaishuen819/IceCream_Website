@@ -42,7 +42,7 @@ I also developed a better understanding of organizing website assets and collabo
 
 1. Clone or download this repository.
 2. Open the project folder.
-3. Navigate to `html/index.html`.
+3. Navigate to `index.html`.
 4. Open the file in a web browser.
 
 ## Project Structure
